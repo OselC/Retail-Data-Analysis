@@ -1,1 +1,2 @@
 # Retail-Data-Analysis
+This project focuses on performing an in-depth Exploratory Data Analysis on a retail sales dataset to uncover meaningful insights about customer behavior, product performance, and overall business trends. The analysis involves examining sales patterns over time, identifying top-performing products and categories, detecting seasonal trends, and evaluating store-level performance.
